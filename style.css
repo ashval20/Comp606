@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+.container {
+  padding: 50px;
+ 
+   margin: 5px auto;
+   left:100;
+   top:100;
+   background-color: #f44336;
+}
+.heading{
+    padding: 50px;
+ 
+    left:100;
+   top:100;
+   color:red;
+}
+.button{
+    left:100;
+   top:100;
+   padding:50px;
+   margin: 5px auto;
+}
+button:hover {
+  opacity: 0.8;
+}
